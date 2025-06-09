@@ -24,6 +24,8 @@ This project is a simple job search platform front-end, built using HTML and CSS
 
 ![Screenshot](assets/desktop1.png)
 
+## live link: https://redesign-assignment-jobringer.vercel.app/
+
 ## Credits
 
 - All images and logos are for representation purposes only.
